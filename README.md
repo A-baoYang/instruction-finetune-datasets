@@ -51,7 +51,8 @@ Human ChatGPT Comparison Corpus (HC3): Human answer & ChatGPT answer compare to 
 
 The first free-form multiple-Choice Chinese machine reading Comprehension dataset, containing 13,369 documents (dialogues or more formally written mixed-genre texts) and their associated 19,577 multiple-choice free-form questions collected from Chinese-as-a-second-language examinations.
 
-- [mkqa]()
+- [mkqa](https://huggingface.co/datasets/mkqa)
+
 Multilingual Knowledge Questions & Answers, contains 10,000 queries sampled from the Google Natural Questions dataset. For each query we collect new passage-independent answers. These queries and answers are then human translated into 25 Non-English languages.
 
 ## Public Professional Domain Knowledge
@@ -62,9 +63,11 @@ Multilingual Knowledge Questions & Answers, contains 10,000 queries sampled from
 ### Medical
 
 - [medical_dialog](https://huggingface.co/datasets/medical_dialog)
+
 The MedDialog dataset (Chinese) contains conversations (in Chinese) between doctors and patients. It has 1.1 million dialogues and 4 million utterances. The data is continuously growing and more dialogues will be added. The raw dialogues are from haodf.com. (All copyrights of the data belong to haodf.com.)
 
 - [covid_qa_ucsd](https://huggingface.co/datasets/covid_qa_ucsd)
+
 English medical dialogue dataset about COVID-19 and other types of pneumonia. Patients who are concerned that they may be infected by COVID-19 or other pneumonia consult doctors and doctors provide advice.
 
 ### Investment
